@@ -1,0 +1,127 @@
+Space Raid game for Intellivision
+by Oscar Toledo G. http://nanochess.org/space_raid.html
+User's manual.
+
+>> 1 LICENSE
+
+  This software is provided 'as-is', without any express or implied
+  warranty. In no event will the author be held liable for any damages
+  or loss arising from the use of this software.
+
+  It is prohibited to sell, modify, decompile, disassemble or reverse
+  engineer this software.
+
+  All trademarks are property of their respective owners.
+
+>> 2 REQUIREMENTS
+
+  o Intellivision console and Cuttle Cart cartridge to load the game.
+  o Or emulator jzintv or Nostalgia.
+  
+  Besides this file (user's manual,) you'll find another file in the ZIP:
+
+  o Space Raid (2014) (nanochess).rom
+  
+
+>> 3 THE GAME
+
+In this awesome isometric game in 3D, guide your spaceship and go to
+offensive against the enemy, annihilate their space forces and do a quick
+raid over the fortresses in your path. Careful with the master robots and the
+tracking missiles through 8 levels!
+
+Move your ship using controller 1 or 2. Evade force fields.
+
+Shoot your enemies using the controller buttons.
+
+Altitude of your ship is shown with a bar in the left side of screen.
+
+Your fuel level is shown with a brown bar in the bottom right part of
+screen, destroy fuel depots to restore it. In space the fuel isn't used but
+inside fortresses it will be consumed and faster in advanced levels.
+
+Your score is shown in the top left of screen and your remaining number of
+ships is in bottom right.
+
+Score table.
+
+Missile - 10 points
+Fuel - 10 points
+Cannon - 20 points
+Plane - 20 points
+Alien - 30 points
+Ground satellite - 20 points
+Tracking missile - 50 points
+Flying satellite - 100 points
+Big robot - 250 points
+
+You'll earn one live at 2000 points, then 4000 points and then 8000 points
+and so on.
+
+>> 4 CREDITS
+
+This game has been written by Oscar Toledo G. (I'm nanochess at Atariage)
+
+Special thanks to following people for their valuable comments, tests and suggestions at 
+AtariAge:
+
+  + cmart604
+  + coleco_master
+  + ed1475
+  + GroovyBee
+  + Keatah
+  + Lathe26
+  + retroillucid
+  + revolutionika
+  + scalpel
+
+Enhancements since Jan/08/2014 version:
+
+* Better title screen.
+* Attraction mode.
+* Credits screen.
+* Bug in launching missile.
+* Avoids Mattel starting screen.
+* Tracking rocket now has shadow.
+* Less flicker in big walls.
+* Scoring table.
+* Fortress' elements smoothly entering/exiting screen.
+* Altitude indicator.
+
+Enhancements since Feb/14/2014 version:
+
+* Entering initials starts with A letter.
+* Alternate colors in high-score table.
+* Credits screen in two screens.
+* Smoother entry/exit of screen of ships (space)
+* Allows to correct initials moving controller to left.
+
+Enhancements since Feb/27/2014 version:
+
+* Both controllers can be used to play.
+* Removed *poc* sound in Game Over tune.
+* Game Over lasts only for ten seconds.
+
+Enhancements since Mar/01/2014 version:
+
+* Sound effect for earning a life.
+* Sound effect for low fuel.
+* Flashing effect for low fuel.
+* Small "ornament" in credits screen.
+* Solved bug where pressing button in demo would qualify for hi-score sometimes.
+* Solved bug where at starting game an alone bullet would be shoot (left over from demo)
+
+Enhancements since Mar/03/2014 version:
+
+* In Game Over, lives are shown as an space.
+* Fuel indicator doesn't flash in Game Over.
+* Corrected points for boss and satellite.
+* Points required for each life now duplicate.
+
+Enhancements since Mar/04/2014 version:
+
+* Solved bug in memory initialization (only happened in real hardware)
+* Changed slightly sound of crosshair.
+
+Mexico, Mexico.
+Last revision: Mar/04/2014.

@@ -1,0 +1,26 @@
+Space Raid for Intellivision
+Full source code files
+(c) Copyright 2013 Oscar Toledo G.
+http://nanochess.org/
+
+This code is provided exclusively for non-commercial usage for educative purposes only.
+
+The following files are provided:
+
+  exp2.asm    Space Raid (exp2 because it was experiment 2)
+  gimini.asm  Cartridge header
+  print.asm   Routines to print numbers
+  logo.asm    Logo graphics.
+
+  e.sh        Assemble game (*nix)
+  e2.sh       Assemble game and launch debugger (*nix)
+
+I developed this code in a time where I didn't intend to publish source code, so I wrote all comments in Spanish, I intend to translate it later to English but my free time is scarce.
+
+Assemble with as1600 from http://spatula-city.org/~im14u2c/intv/
+Tested with jzintv and Nostalgia emulators
+Tested with real Intellivision using Cuttle Cart 3 and LTO-Flash.
+Demostration video at https://www.youtube.com/watch?v=4yiTUI_hgDw
+
+Latest revision: Dec/01/2018
+
